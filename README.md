@@ -33,7 +33,7 @@
 
 **Последняя версия** – скачать можно по ссылке ниже:
 
-👉 [TifToPDF.exe (v1.0.0)](https://github.com/Zilbox/Tif_to_PDF/blob/master/dist/Tif%20to%20Pdf.exe)  
+👉 [TifToPDF.exe (v1.0.0)]([https://github.com/Zilbox/Tif_to_PDF/blob/master/dist/Tif%20to%20Pdf.exe](https://raw.githubusercontent.com/Zilbox/Tif_to_PDF/refs/heads/master/dist/Tif%20to%20Pdf.exe))  
 
 Или перейдите в раздел [Releases](https://github.com/Zilbox/Tif_to_PDF/blob/master/dist) на этом репозитории.
 
