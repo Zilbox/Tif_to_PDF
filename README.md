@@ -46,6 +46,7 @@
 - pillow
 - img2pdf
 - tkinter (входит в стандартную библиотеку)
+  
 ---
 
 ## 📦 Сборка из исходников (для разработчиков)
@@ -56,6 +57,8 @@
 pip install pyinstaller
 pyinstaller --onefile --windowed --name TifToPDF main.py
 
+---
+
 ## ⚠️ Примечания
 
 Программа не изменяет исходные TIF-файлы.
@@ -63,3 +66,4 @@ pyinstaller --onefile --windowed --name TifToPDF main.py
 Для больших изображений автоматически снимается ограничение на размер пикселя (Image.MAX_IMAGE_PIXELS = None).
 
 При конвертации одного файла относительный путь не создаётся – PDF сохраняется прямо в корень папки назначения.
+---
